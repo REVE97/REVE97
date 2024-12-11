@@ -1,4 +1,4 @@
-## GitHub Profile
+##🔭 GitHub Profile
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675)](https://solved.ac/gywo9675)
 
