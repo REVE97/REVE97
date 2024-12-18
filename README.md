@@ -8,7 +8,7 @@
 
 🔭 CalculateRank
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=radical)](https://github.com/REVE97)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=dracula)](https://github.com/REVE97)
 
 <!--
 **REVE97/REVE97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
