@@ -4,7 +4,7 @@
 
 📫 Using Stacks
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact)](https://github.com/REVE97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact&hide=ipynb)](https://github.com/REVE97)
 
 🔭 CalculateRank
 
