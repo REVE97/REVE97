@@ -1,8 +1,14 @@
-🔭 GitHub Profile
+❤️ GitHub Profile
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675)](https://solved.ac/gywo9675)
 
+📫 Using Stacks
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact)](https://github.com/REVE97)
+
+🔭 CalculateRank
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=radical)](https://github.com/REVE97)
 
 <!--
 **REVE97/REVE97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
