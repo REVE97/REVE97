@@ -1,4 +1,5 @@
 <table>
+<table>
   <tr>
     <td>
       ⚡ Solved.ac <br>
@@ -12,15 +13,13 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact&exclude_repo=SW_project" alt="Top Langs" />
       </a>
     </td>
-    <td>
-      🔭 CalculateRank <br>
-      <a href="https://github.com/REVE97">
-        <img src="https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=dracula" alt="GitHub Stats" />
-      </a>
-    </td>
   </tr>
 </table>
 
+🔭 CalculateRank <br>
+<a href="https://github.com/REVE97">
+  <img src="https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</a>
 
 <!--
 **REVE97/REVE97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
