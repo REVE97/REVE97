@@ -1,5 +1,4 @@
 <table>
-<table>
   <tr>
     <td>
       ⚡ Solved.ac <br>
@@ -16,10 +15,14 @@
   </tr>
 </table>
 
-🔭 CalculateRank <br>
-<a href="https://github.com/REVE97">
-  <img src="https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</a>
+<table>
+  <tr>
+    🔭 CalculateRank <br>
+    <a href="https://github.com/REVE97">
+      <img src="https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </a>
+  </tr>
+</table>
 
 <!--
 **REVE97/REVE97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
