@@ -1,10 +1,20 @@
-⚡ Solved.ac
+<table>
+  <tr>
+    <td>
+      ⚡ Solved.ac <br>
+      <a href="https://solved.ac/gywo9675">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" />
+      </a>
+    </td>
+    <td>
+      📫 Using Stacks <br>
+      <a href="https://github.com/REVE97">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact&exclude_repo=SW_project" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675)](https://solved.ac/gywo9675)
-
-📫 Using Stacks
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact&exclude_repo=SW_project)](https://github.com/REVE97)
 
 🔭 CalculateRank
 
