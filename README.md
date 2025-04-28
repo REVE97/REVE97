@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/vue3-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
     </div>
     <div>
-      <img src="https://img.shields.io/badge/java-66CFE3.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
+      <img src="https://img.shields.io/badge/java-00B388.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
     </div>
   </tr>
   <tr>
