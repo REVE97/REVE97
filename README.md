@@ -12,6 +12,9 @@
     <div>
       <img src="https://img.shields.io/badge/java-00B388.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
     </div>
+    <div>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=black" />&nbsp
+    </div>
   </tr>
   <tr>
     <div>
