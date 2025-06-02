@@ -66,7 +66,7 @@
 <table id = "Git pet">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=REVE97&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/REVE97"
-      width="600"
+      width="800"
       height="300"
     />
   </a>
