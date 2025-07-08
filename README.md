@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <div class="Web_front_lang">
+    <div class="Web_Front_lang">
       <h2>⚔ Tech Stack</h2>
       <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" />&nbsp
@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/vue3-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
       <img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=REACT&logoColor=black" />&nbsp
     </div>
-    <div class="Web_back_lang">
+    <div class="Web_Back_lang">
       <img src="https://img.shields.io/badge/java-00B388.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
       <img src="https://img.shields.io/badge/Spring Legacy-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/apache tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black" />&nbsp
