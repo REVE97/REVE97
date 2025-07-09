@@ -9,6 +9,7 @@
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
       <img src="https://img.shields.io/badge/vue3-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
       <img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=REACT&logoColor=black" />&nbsp
+      <img src="https://img.shields.io/badge/TailWind CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=black" />&nbsp
     </div>
     <div class="Web_Back_lang">
       <img src="https://img.shields.io/badge/java-00B388.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
