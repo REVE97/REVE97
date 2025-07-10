@@ -29,7 +29,6 @@
       <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
     </div>
     <div class="Idle">
-      <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/IntelliJ IDEA-red.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
     </div>
   </tr>
