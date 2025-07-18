@@ -32,6 +32,7 @@
     </div>
     <div class="Idle">
       <img src="https://img.shields.io/badge/IntelliJ IDEA-red.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+      <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=black" />&nbsp
     </div>
   </tr>
 </table>
