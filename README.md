@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Kwak%20Hyo%20Jae&fontColor=black&fontSize=35&color=DCDCDC)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Kwak%20Hyo%20Jae&fontColor=black&fontSize=30&color=DCDCDC)
 
 <table>
   <tr>
