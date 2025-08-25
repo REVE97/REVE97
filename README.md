@@ -9,6 +9,7 @@
       <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
       <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp
       <img src="https://img.shields.io/badge/TailWind CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=black" />&nbsp
+      <img src="https://img.shields.io/badge/NEXT.js-green.svg?style=for-the-badge&logo=nextdotjs&logoColor=black" />&nbsp
     </div>
     <div class="Web_Front_Framework">
       <img src="https://img.shields.io/badge/vue-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
