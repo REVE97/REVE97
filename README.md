@@ -71,7 +71,7 @@
   <h2>🐾 GIT PET</h2>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=REVE97&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/REVE97"
-      width="800"
+      width="1000"
       height="300"
     />
   </a>
