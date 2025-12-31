@@ -41,28 +41,11 @@
 
 <table>
   <tr>
-    <div>
-      <h2>📫 Using Stacks</h2>
-      <a href="https://github.com/REVE97">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVE97&layout=compact&exclude_repo=SW_project" alt="Top Langs" />
-      </a>
-    </div>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td>
       <h2>⚡ Solved.ac</h2>
       <a href="https://solved.ac/gywo9675">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" />
       </a>
-    </td>
-    <td>
-      <h2>🔭 CalculateRank</h2>
-    <a href="https://github.com/REVE97">
-      <img src="https://github-readme-stats.vercel.app/api?username=REVE97&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    </a>
     </td>
   </tr>
 </table>
