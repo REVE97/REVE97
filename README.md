@@ -41,12 +41,12 @@
 
 <table>
   <tr>
-    <td>
+    <div>
       <h2>⚡ Solved.ac</h2>
       <a href="https://solved.ac/gywo9675">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" />
       </a>
-    </td>
+    </div>
   </tr>
 </table>
 
