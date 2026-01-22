@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/NEXT.js-green.svg?style=for-the-badge&logo=nextdotjs&logoColor=black" />&nbsp
     </div>
     <div class="Web_Front_Framework">
-      <img src="https://img.shields.io/badge/vue-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
+      <img src="https://img.shields.io/badge/vue3-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
       <img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=REACT&logoColor=black" />&nbsp
     </div>
     <div class="Web_Back_lang">
