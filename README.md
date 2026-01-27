@@ -24,11 +24,11 @@
     </div>
   </tr>
   <tr>
-    <div class="Source_tools">
+    <div>
       <h2>🛠 Tools</h2>
-      <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
     </div>
     <div class="Web_tools">
+      <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
       <img src="https://img.shields.io/badge/Vercel-9E95B7.svg?style=for-the-badge&logo=Vercel&logoColor=black" />&nbsp
