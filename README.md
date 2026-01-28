@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <div>
-      <h2>🛠 Tools</h2>
+      <h2>🛠 DevOps & Tools</h2>
     </div>
     <div class="Web_tools">
       <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
