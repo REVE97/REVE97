@@ -29,7 +29,7 @@
     </div>
     <div class="Web_tools">
       <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-      <img src="https://img.shields.io/badge/git actions-2088FF.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+      <img src="https://img.shields.io/badge/github actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/Vercel-9E95B7.svg?style=for-the-badge&logo=Vercel&logoColor=black" />&nbsp
       <img src="https://img.shields.io/badge/Vite-black.svg?style=for-the-badge&logo=Vite&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/Pinia-FFD859.svg?style=for-the-badge&logo=Pinia&logoColor=white" />&nbsp
