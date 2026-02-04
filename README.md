@@ -45,12 +45,17 @@
 
 <table>
   <tr>
-    <div>
-      <h2>⚡ Solved.ac</h2>
-      <a href="https://solved.ac/gywo9675">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" />
-      </a>
-    </div>
+    <td>
+      <div>
+        <h2>⚡ Solved.ac</h2>
+        <a href="https://solved.ac/gywo9675">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" />
+        </a>
+      </div>
+    </td>
+    <td>
+      [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zxcv9675)](https://github.com/eungyeole/velog-readme-stats)
+    </td>
   </tr>
 </table>
 
