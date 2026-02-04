@@ -43,6 +43,10 @@
   </tr>
 </table>
 
+<h2>💼 Works</h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=개발일지)](https://github.com/eungyeole/velog-readme-stats)
+
 <table>
   <tr>
       <div>
