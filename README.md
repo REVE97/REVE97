@@ -53,9 +53,6 @@
         </a>
       </div>
     </td>
-    <td>
-      [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zxcv9675)](https://github.com/eungyeole/velog-readme-stats)
-    </td>
   </tr>
 </table>
 
