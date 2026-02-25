@@ -19,9 +19,8 @@
     </div>
     <div class="Web_Back_lang">
       <img src="https://img.shields.io/badge/java-00B388.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
-    </div>
-    <div class="Data_lang">
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=black" />&nbsp
+      <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
     </div>
   </tr>
   <tr>
