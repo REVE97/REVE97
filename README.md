@@ -44,6 +44,8 @@
 
 <h2>💼 Works</h2>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=6C63FF)](https://REVE97.github.io/Portfolio_preview/portfolio.pdf)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=개발일지)](https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91)
 
 <table>
