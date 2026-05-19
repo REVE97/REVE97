@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
       <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
+      <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=black" />&nbsp
     </div>
   </tr>
 </table>
