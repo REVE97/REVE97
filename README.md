@@ -43,9 +43,23 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=6C63FF)](https://REVE97.github.io/Portfolio_preview/portfolio.pdf)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=vsoc)](https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91)
+<div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
+  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91">
+    <img
+      src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=vsoc"
+      alt="VSOC Velog Card"
+      width="300"
+    />
+  </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=diary)](https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-Bandiary)
+  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-Bandiary">
+    <img
+      src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=diary"
+      alt="Bandiary Velog Card"
+      width="300"
+    />
+  </a>
+</div>
 
 <table>
   <tr>
