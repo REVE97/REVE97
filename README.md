@@ -61,13 +61,15 @@
   </a>
 </div>
 
-<h2>⚡ Solved.ac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐾 GIT PET</h2>
+<h2>⚡ Solved.ac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐾 GIT PET</h2>
 
 <a href="https://solved.ac/gywo9675">
   <img
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675"
     alt="Solved.ac 프로필"
     width="300"
+    height="180"
+    align="bottom"
   />
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -77,5 +79,6 @@
     alt="Git Animals Farm"
     width="300"
     height="180"
+    align="bottom"
   />
 </a>
