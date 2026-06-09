@@ -61,23 +61,21 @@
   </a>
 </div>
 
-<table>
-  <tr>
-      <div>
-        <h2>⚡ Solved.ac</h2>
-        <a href="https://solved.ac/gywo9675">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" />
-        </a>
-      </div>
-  </tr>
-</table>
+<h2>⚡ Solved.ac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐾 GIT PET</h2>
 
-<table id = "Git Pet">
-  <h2>🐾 GIT PET</h2>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=REVE97&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/REVE97"
-      width="500"
-      height="300"
-    />
-  </a>
-</table>
+<a href="https://solved.ac/gywo9675">
+  <img
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675"
+    alt="Solved.ac 프로필"
+    width="300"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=REVE97&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/REVE97"
+    alt="Git Animals Farm"
+    width="300"
+    height="180"
+  />
+</a>
