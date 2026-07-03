@@ -41,9 +41,16 @@
 
 <h2>💼 Works</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=6C63FF)](https://REVE97.github.io/Portfolio_preview/portfolio_20260607.pdf)
+<p>
+  <a href="https://REVE97.github.io/Portfolio_preview/portfolio_20260607.pdf">
+    <img src="https://img.shields.io/badge/Portfolio-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=6C63FF"
+      >
+  </a>
 
-[![Resume](https://img.shields.io/badge/Resume-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=F0EEE9)](https://reve-log.vercel.app/)
+  <a href="https://reve-log.vercel.app/">
+    <img src="https://img.shields.io/badge/Resume-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=F0EEE9">
+  </a>
+</p>
 
 <div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
   <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91">
