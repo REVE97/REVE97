@@ -46,42 +46,11 @@
   <a href="https://reve-log.vercel.app/"><img src="https://img.shields.io/badge/Resume-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=F0EEE9" alt="Resume"></a>
 </p>
 
-<div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
-  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91">
-    <img
-      src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=vsoc"
-      alt="VSOC Velog Card"
-      width="300"
-    />
-  </a>
-
-  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-Bandiary">
-    <img
-      src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=diary"
-      alt="Bandiary Velog Card"
-      width="300"
-    />
-  </a>
-</div>
+<p>
+  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91"><img src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=vsoc" alt="VSOC Velog Card" width="300" /></a>
+  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-Bandiary"><img src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=diary" alt="Bandiary Velog Card" width="300" /></a>
+</p>
 
 <h2>⚡ Solved.ac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐾 GIT PET</h2>
 
-<a href="https://solved.ac/gywo9675">
-  <img
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675"
-    alt="Solved.ac 프로필"
-    width="300"
-    height="180"
-    align="bottom"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=REVE97&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/REVE97"
-    alt="Git Animals Farm"
-    width="300"
-    height="180"
-    align="bottom"
-  />
-</a>
+<a href="https://solved.ac/gywo9675"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gywo9675" alt="Solved.ac 프로필" width="300" height="180" align="bottom" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=REVE97&utm_content=farm"><img src="https://render.gitanimals.org/farms/REVE97" alt="Git Animals Farm" width="300" height="180" align="bottom" /></a>
