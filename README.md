@@ -42,8 +42,8 @@
 <h2>💼 Works</h2>
 
 <p>
-  <a href="https://REVE97.github.io/Portfolio_preview/portfolio_20260729.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=6C63FF" alt="Portfolio"></a>
-  <a href="https://reve-log.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Resume-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=F0EEE9" alt="Resume"></a>
+  <a href="https://REVE97.github.io/Portfolio_preview/portfolio_20260729.pdf"><img src="https://img.shields.io/badge/Portfolio-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=6C63FF" alt="Portfolio"></a>
+  <a href="https://reve-log.vercel.app/"><img src="https://img.shields.io/badge/Resume-click-FF6B35?style=for-the-badge&logo=adobeacrobatreader&labelColor=F0EEE9" alt="Resume"></a>
 </p>
 
 <p>
