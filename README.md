@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-OTA-SUMSVSOC-Platform-%EC%A7%84%ED%96%89%EC%A4%91"><img src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=vsoc" alt="VSOC Velog Card" width="300" /></a>
-  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-Bandiary"><img src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=diary" alt="Bandiary Velog Card" width="300" /></a>
+  <a href="https://velog.io/@zxcv9675/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-Bandiary-%EB%B0%B4%EB%93%9C-%ED%99%9C%EB%8F%99-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC"><img src="https://velog-readme-stats.vercel.app/api?name=zxcv9675&tag=diary" alt="Bandiary Velog Card" width="300" /></a>
 </p>
 
 <h2>⚡ Solved.ac &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐾 GIT PET</h2>
