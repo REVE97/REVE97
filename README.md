@@ -12,6 +12,7 @@
       <img src="https://img.shields.io/badge/vue-00A82D.svg?style=for-the-badge&logo=VUE.js&logoColor=#4FC08D" />&nbsp
       <img src="https://img.shields.io/badge/Pinia-FFD859.svg?style=for-the-badge&logo=Pinia&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=REACT&logoColor=black" />&nbsp
+      <img src="./assets/badges/zustand-badge.svg" alt="Zustand" height="28"/>&nbsp;
     </div>
     <div class="Web_Back_lang">
       <img src="https://img.shields.io/badge/java-00B388.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
